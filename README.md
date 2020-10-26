@@ -7,6 +7,6 @@ It mimics an _expensive_ task, such as caching data and invalidating and refresh
 <ol>
   <li>Make sure to provide a valid ConnectionString in appsettings.json</li>
   <li>Run the project</li>  
-  <li>Navigate to ``````[localhost:port]/swagger`````` endpoint for interacting with the project 
-  <li>Navigate to ```[localhost:port]/jobs``` to have a look at HangFire UI</li>
+  <li>Navigate to __[localhost:port]/swagger__ endpoint for interacting with the project 
+  <li>Navigate to __[localhost:port]/jobs__ to have a look at HangFire UI</li>
 </ol>
